@@ -1,6 +1,6 @@
 # Traffic_light_controller
 
-##ABSTRACT:
+## ABSTRACT:
 Traffic light control systems are widely used to control and to monitor the transport
 system. They are mainly used to maintain a smooth traffic system on the busiest roads
 of the city. However, the synchronization of multiple traffic light systems at adjacent
@@ -12,7 +12,7 @@ sensitive enough to count the number of cars but get easily damaged by heavy
 vehicles. The laser sensors are used to detect the number of cars. They are preferred
 due to their directivity property.
 
-##Problem Statement:
+## Problem Statement:
 The purpose of this project is to develop a series of systems models for
 traffic passing through a 4-way intersection, controlled by traffic lights. We
 will assume that the arrangement of traffic lights and road lanes is fixed and
@@ -21,7 +21,7 @@ pattern. Moreover, we assume that driver behavior is constrained by the
 road rules (we keep this part really simple) and the desire to avoid vehicle
 collisions.
 
-##CONCLUSION:
+## CONCLUSION:
 In the Traffic Control Management System, the major function of a user defined header file is to
 make the system capture the video of the traffic lanes and to analyze them. The caliberate.cpp
 receives the analyzed data of running traffic and it takes the appropriate decision for traffic
@@ -34,7 +34,7 @@ This software analyses the traffic for each lane and decides to divide the traff
 vehicle. In order to reduce traffic congestion, the small vehicles are moved in one lane and
 heavier vehicles are moved in the other.
 
-##FUTURE SCOPE
+## FUTURE SCOPE
 Due to continuous growth of population in the world, it is a great challenge for the
 upcoming generation to manage the traffic system. Much improvement will come in the
 future.
